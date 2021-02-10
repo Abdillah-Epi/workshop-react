@@ -1,0 +1,40 @@
+{
+    "Pizza": [
+        {
+            "name": "Regina",
+            "price": "5€",
+            "ingredients": "Tomate, Double Fromage, Jambon, Champignons",
+            "image": "./img/1.jpg"    
+        },
+        {
+            "name": "4 Fromages",
+            "price": "8€",
+            "ingredients": "Tomate, Double Fromage, Chèvre, Brie, Bleu",  
+            "image": "./img/2.jpg"
+        },
+        {
+            "name": "Chorizo",
+            "price": "9€",
+            "ingredients": "Tomate, Double Fromage, Chorizo, Bacon, Œuf",   
+            "image": "./img/3.jpg"
+        },
+        {
+            "name": "Orientale",
+            "price": "12€",
+            "ingredients": "Tomate, Double Fromage, Merguez, Olives, Poivron, Oignons, Œuf",   
+            "image": "./img/4.jpg"
+        },
+        {
+            "name": "Végétarienne",
+            "price": "15€",
+            "ingredients": "Tomate, Double Fromage, Pomme De Terre, Champignons, Poivron, Artichauts, Oignons, Olives",   
+            "image": "./img/5.jpg"
+        },
+        {
+            "name": "Savoyard",
+            "price": "8€",
+            "ingredients": "Tomate, Double Fromage, Viande Hachée, Reblochon, Oignons",   
+            "image": "./img/6.jpg"
+        }
+    ]
+}
